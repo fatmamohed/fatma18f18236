@@ -1,0 +1,8 @@
+read attendance1, attendance2, attendance3, attendance4, attendance5
+if attendance1 in this module Math>=70% print "pass"
+if attendance2 in this module English>=70% print "pass"
+if attendance3 in this module web development>=70% print "pass"
+if attendance4 in this module Advanced programming>=70% print "pass"
+if attendance5 in this module project>=70% print "pass"
+total-attendance1+attendance2+attendance3+attendance4+attendance5
+print total
