@@ -6,3 +6,6 @@ if attendance4 in this module Advanced programming>=70% print "pass"
 if attendance5 in this module project>=70% print "pass"
 total-attendance1+attendance2+attendance3+attendance4+attendance5
 print total
+if attendance1 in this module Math>=65% print "pass"
+mark= total/5
+print marks
